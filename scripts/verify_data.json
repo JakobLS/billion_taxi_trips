@@ -1,0 +1,22 @@
+[
+  {
+    "min_total_amount": "0.01",
+    "max_total_amount": "515.75",
+    "min_trip_duration": "1",
+    "max_trip_duration": "180",
+    "min_pickup_longitude": "-76.0",
+    "max_pickup_longitude": "-73.0",
+    "min_pickup_latitude": "40.0",
+    "max_pickup_latitude": "42.0",
+    "min_dropoff_longitude": "-76.0",
+    "max_dropoff_longitude": "-73.0",
+    "min_dropoff_latitude": "40.0",
+    "max_dropoff_latitude": "42.0",
+    "min_trip_distance": "0.02",
+    "max_trip_distance": "159.97",
+    "min_rate_code": "1",
+    "max_rate_code": "5",
+    "min_passenger_count": "1",
+    "max_passenger_count": "6"
+  }
+]
